@@ -1,33 +1,51 @@
-# GeoSteer Learning Platform
+GEO Well Learning Platform
 
-**GeoSteer Learning Platform** is an educational tool designed to help students and early-career geoscientists.
+A Modular Learning Platform for Geosteering, Log Interpretation, and Well Planning
 
-**Live Platform:** [https://geosteer-learning-platform.lovable.app](https://geosteer-learning-platform.lovable.app)
+GEO Well is an interactive geoscience education platform designed to teach subsurface interpretation, drilling decision-making, and well planning workflows through structured modules and simulation-based learning.
 
----
+It combines theory, interpretation, and hands-on practice into a single integrated learning system.
 
-## Features
-- Interactive geosteering lessons  
-- Structured course modules from beginner to advanced  
-- Real-world examples and exercises  
-- Ideal for students and early-career geoscientists
+Live Platform: https://geo-well-learning-platform.lovable.app
 
-## Tech Stack
-- Built with **Lovable** platform  
-- Fully responsive design for desktop and mobile  
-- Interactive content modules for practical learning  
+🧭 Platform Overview
 
-## Contact
+GEO Well brings together five integrated learning sections, covering the full workflow from geological fundamentals to real-time geosteering decisions:
 
-For more information about the course or enrollment, contact me via email: shikhovalf@gmail.com
+- Geosteering fundamentals and decision-making
+- Well log interpretation (MWD/LWD data analysis)
+- Interactive geosteering simulation
+- Well trajectory planning tools
+- Technical resources and reference materials
 
-## License
+Each module is designed to build practical understanding of how subsurface decisions are made in real drilling operations.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+🚀 Key Features
+- Modular learning architecture (structured progression)
+- Simulation-based geosteering practice
+- Real-world MWD/LWD data interpretation workflows
+- Engineering-focused well planning tools
+- Integrated reference library for self-study
+- Clean, modern, responsive UI
 
-## Getting Started
-To explore or contribute to this project:
+🎯 Who This Platform Is For
+- Geology and geophysics students
+- Petroleum engineering students
+- Early-career geoscientists and drilling engineers
+- Professionals transitioning into subsurface roles
+- Educators in applied geoscience and drilling systems
 
-1. Clone the repository:
-```bash
-git clone https://github.com/shikhovalf/geosteer-learning-platform.git
+  🛠 Tech Stack
+- Built with Lovable
+- Modern responsive web application
+- Modular UI system
+
+📧 Contact
+
+For feedback, collaboration or academic inquiries: shikhovalf@gmail.com
+
+📄 License
+
+This project is licensed under the MIT License.
+
+
